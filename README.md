@@ -5,7 +5,7 @@ This program exports MITRE ATT&amp;CK enterpise matrix into a ELK dashboard. Che
 ![Alt text](/img/platform.jpg?raw=true "Title")
 
 # Installation
-1. Clone this repo git@github.com:michaelhidalgo/attack-to-elk.git
+1. Clone or fork this repo git@github.com:michaelhidalgo/attack-to-elk.git
 2. Create a virtual environment using virtualenv env
 3. Activate the virtual environment running source env/bin/activate from the root folder.
 5. Install dependencies from requirements file pip3 install -r requirements.txt
