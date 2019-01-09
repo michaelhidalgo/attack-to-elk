@@ -29,4 +29,4 @@ All visualizations, index patterns and dashboards were exported into an [artifac
 Once you've run the script and indexing the matrix, you can go to Kibana Management -> Saved Objects and Import. From there you can choose the artifacts JSON described above and that's it.
 
 
-![Alt text](/img/artifact-import.jpg.jpg?raw=true "ELK artifacts")
+![Alt text](/img/artifact-import.jpg?raw=true "ELK artifacts")
