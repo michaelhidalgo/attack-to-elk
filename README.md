@@ -22,3 +22,8 @@ virtualenv env
 ``` python 
 python3 attack-to-elk.py
 ```
+# Importing ELK artifacts
+
+All visualizations, index patterns and dashboards were exported into an [artifact JSON file](https://github.com/michaelhidalgo/attack-to-elk/tree/master/elk-artifacts). 
+
+Once you've run the script and indexing the matrix, you can go to Kibana Management -> Saved Objects and Import. From there you can choose the artifacts JSON described above and that's it.
