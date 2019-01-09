@@ -2,7 +2,7 @@
 
 This program exports MITRE ATT&amp;CK enterpise matrix into a ELK dashboard. Check out [this blog post entry](https://blog.michaelhidalgo.info/2019/01/mitre-att-as-kibana-dashboard-part-ll.html) for having better understanding on the benefits of exporting the ATT&CK enterprise matrix into ELK.
 
-![Alt text](/img/platform.jpg?raw=true "Title")
+![Alt text](/img/platform.jpg?raw=true "MITRE ATT&CK Dashboard")
 
 # Installation
 1. Clone or fork this repo git@github.com:michaelhidalgo/attack-to-elk.git
@@ -27,3 +27,6 @@ python3 attack-to-elk.py
 All visualizations, index patterns and dashboards were exported into an [artifact JSON file](https://github.com/michaelhidalgo/attack-to-elk/tree/master/elk-artifacts). 
 
 Once you've run the script and indexing the matrix, you can go to Kibana Management -> Saved Objects and Import. From there you can choose the artifacts JSON described above and that's it.
+
+
+![Alt text](/img/artifact-import.jpg.jpg?raw=true "ELK artifacts")
