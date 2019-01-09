@@ -1,6 +1,6 @@
 # A better way to visualize, filter and search MITRE ATT&CK matrix
 
-This program exports MITRE ATT&amp;CK enterpise matrix into a ELK dashboard.
+This program exports MITRE ATT&amp;CK enterpise matrix into a ELK dashboard. Check out [this blog](https://blog.michaelhidalgo.info/2019/01/mitre-att-as-kibana-dashboard-part-ll.html) for having more background.
 
 ![Alt text](/img/platform.jpg?raw=true "Title")
 
