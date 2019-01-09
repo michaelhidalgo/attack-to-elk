@@ -1,4 +1,4 @@
-# attack-to-elk : A better way to visualize, filter and search MITRE ATT&CK matrix
+# A better way to visualize, filter and search MITRE ATT&CK matrix
 
 This program exports MITRE ATT&amp;CK enterpise matrix into a ELK dashboard.
 
