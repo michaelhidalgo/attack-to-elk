@@ -9,7 +9,7 @@ This program exports MITRE ATT&amp;CK enterpise matrix into a ELK dashboard. Che
 ![Alt text](/img/dashboard-software-groups.jpg?raw=true "ELK artifacts")
 
 
-# Filtering out by Technique
+# Filtering out by MITRE ATT&CK Techniques
 
 ![Alt text](/img/ps-filter.jpg?raw=true "ELK artifacts")
 
