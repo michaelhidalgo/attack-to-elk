@@ -4,6 +4,15 @@ This program exports MITRE ATT&amp;CK enterpise matrix into a ELK dashboard. Che
 
 ![Alt text](/img/platform.jpg?raw=true "MITRE ATT&CK Dashboard")
 
+# Visualizing the relationship between MITRE ATT&CK Tactics, Techniques, Groups and Software
+
+![Alt text](/img/dashboard-software-groups.jpg?raw=true "ELK artifacts")
+
+
+# Filtering out by Technique
+
+![Alt text](/img/ps-filter.jpg?raw=true "ELK artifacts")
+
 # Installation
 1. Clone or fork this repo git@github.com:michaelhidalgo/attack-to-elk.git
 2. Create a virtual environment using virtualenv:
